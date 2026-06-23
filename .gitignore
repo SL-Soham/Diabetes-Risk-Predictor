@@ -15,8 +15,3 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Academic files
-p2_report/
-P2.docx
-
